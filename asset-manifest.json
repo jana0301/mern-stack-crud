@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jana0301/mern-stack-crud/static/css/main.63b8681e.css",
-    "main.js": "/jana0301/mern-stack-crud/static/js/main.f4d86db3.js",
-    "static/js/787.1d4c3050.chunk.js": "/jana0301/mern-stack-crud/static/js/787.1d4c3050.chunk.js",
-    "index.html": "/jana0301/mern-stack-crud/index.html",
-    "main.63b8681e.css.map": "/jana0301/mern-stack-crud/static/css/main.63b8681e.css.map",
-    "main.f4d86db3.js.map": "/jana0301/mern-stack-crud/static/js/main.f4d86db3.js.map",
-    "787.1d4c3050.chunk.js.map": "/jana0301/mern-stack-crud/static/js/787.1d4c3050.chunk.js.map"
+    "main.css": "/jana0301.github.io/mern-stack-crud/static/css/main.63b8681e.css",
+    "main.js": "/jana0301.github.io/mern-stack-crud/static/js/main.c8d2179e.js",
+    "static/js/787.1d4c3050.chunk.js": "/jana0301.github.io/mern-stack-crud/static/js/787.1d4c3050.chunk.js",
+    "index.html": "/jana0301.github.io/mern-stack-crud/index.html",
+    "main.63b8681e.css.map": "/jana0301.github.io/mern-stack-crud/static/css/main.63b8681e.css.map",
+    "main.c8d2179e.js.map": "/jana0301.github.io/mern-stack-crud/static/js/main.c8d2179e.js.map",
+    "787.1d4c3050.chunk.js.map": "/jana0301.github.io/mern-stack-crud/static/js/787.1d4c3050.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63b8681e.css",
-    "static/js/main.f4d86db3.js"
+    "static/js/main.c8d2179e.js"
   ]
 }
